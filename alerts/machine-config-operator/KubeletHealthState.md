@@ -132,4 +132,4 @@ full advantage of OpenShift features.
 
 ## Labels
 
-#openshift #alert #tb132 #data
+`#openshift #alert #tb132 #data`
